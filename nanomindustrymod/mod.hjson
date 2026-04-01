@@ -1,0 +1,8 @@
+name: "nanomindustrymod"
+displayName: "NanoMod"
+author: Nano
+description: "Don't expect much, I am new to this programming language! A possibly hard and chaotic mod for Mindustry, the possibilities are currently unknown"
+version: "1.0"
+minGameVersion: "146"
+dependencies: [ ]
+hidden: false
