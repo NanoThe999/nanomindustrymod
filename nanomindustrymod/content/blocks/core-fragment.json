@@ -1,6 +1,6 @@
 {
     "type": "CoreBlock",
-    "name": "Core: Fragment",
+    "name": "Core: Fractured",
     "description": "Core of the base. Armored and stores a small amount of items.",
     "requirements": [
         "platinum/3500",
