@@ -1,0 +1,9 @@
+{
+    "description": "A very shiny metal. Used in the production of structures.",
+    "type": "resource",
+    "cost": 2,
+    "color": 597bba,
+    "research": {
+        "planet": calnith
+    }
+}

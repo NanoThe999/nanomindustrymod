@@ -1,0 +1,9 @@
+{
+    "description": "A piece of zinc. Nothing special, can probably be used for some construction.",
+    "type": "resource",
+    "cost": 1,
+    "research": {
+        "planet": "calnith"
+    },
+    "color": "597bba"
+}

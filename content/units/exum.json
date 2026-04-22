@@ -1,0 +1,44 @@
+{
+	"type": "flyingUnit",
+	"name": "Exum",
+	"description": "Shoots bullets and nanofire at enemy targets. Image may not be accurate.",
+	"speed": 3,
+	"flying": true,
+	"health": 90,
+	"engineOffset": 6,
+	"range": 160,
+	"weapons": [
+		{
+			"name": "plasm-turret",
+			"shootSound": "shootFlame",
+			"length": 1.5,
+			"reload": 6,
+			"bullet": {
+				"type": "ContinuousFlameBulletType",
+				"width": 2,
+				"length": 70,
+				"colors": [ "b075ff", "006dff", "d695ff", "ff00fd", "1d0081" ],
+				"hitColor": "cebcff",
+				"damage": 10,
+				"buildingDamageMultiplier": 1.7
+			},
+			"rotate": true,
+			"damage": 5
+		},
+		{
+			"name": "small-exum-gun",
+			"length": 1.5,
+			"reload": 20,
+			"alternate": true,
+			"mirror":  true,
+			"bullet": {
+				"type": "BasicBulletType",
+				"damage": 3
+			},
+			"rotate": true,
+			"x": 3,
+			"y": 0
+		}
+		
+	]
+}

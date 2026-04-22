@@ -1,0 +1,23 @@
+{
+    "type": "CoreBlock",
+    "name": "Core: Fractured",
+    "description": "Core of the base. Armored and stores a small amount of items.",
+    "requirements": [
+        "platinum/3500",
+        "nanite/3500"
+    ],
+    "isFirstTier": true,
+    "size": 3,
+    "alwaysUnlocked": true,
+    "unitType": "tera",
+    "health": 1450,
+    "itemCapacity": 3500,
+    "unitCapModifier": 15,
+    "category": "effect",
+    "research": {
+        "planet": "calnith",
+        "root": true,
+        "name": "Calnith",
+        "requiresUnlock": false
+    }
+}
