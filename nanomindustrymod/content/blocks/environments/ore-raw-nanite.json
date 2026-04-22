@@ -1,7 +1,0 @@
-{
-    "type": "OreBlock",
-    "itemDrop": "raw-nanite",
-    "oreDefault": true,
-    "oreThreshold": 0.5,
-    "oreScale": 25.828543
-}

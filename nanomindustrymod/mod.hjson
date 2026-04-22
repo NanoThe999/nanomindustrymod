@@ -1,9 +1,0 @@
-name: "nanomindustrymod"
-displayName: "NanoMod"
-author: Nano
-description: "[red]!DOWNLOAD IS NOT ADVISED, MOD IS WIP![]\n Don't expect much, I am new to this programming language! A possibly hard and chaotic mod for Mindustry, the possibilities are currently unknown"
-version: "1.0"
-minGameVersion: "146"
-dependencies: [ ]
-hidden: false
-repo: "NanoThe999/nanomindustrymod"

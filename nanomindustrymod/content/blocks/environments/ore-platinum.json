@@ -1,7 +1,0 @@
-{
-    "type": "OreBlock",
-    "itemDrop": "platinum",
-    "oreDefault": true,
-    "oreThreshold": 0.8,
-    "oreScale": 25.828543
-}
