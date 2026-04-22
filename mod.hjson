@@ -1,7 +1,7 @@
 name: "nanomindustrymod"
 displayName: "NanoMod"
 author: Nano
-description: "[red]!DOWNLOAD IS NOT ADVISED, MOD IS WIP![]\n Don't expect much, I am new to this programming language! A possibly hard and chaotic mod for Mindustry, the possibilities are currently unknown"
+description: "[red]!DOWNLOAD IS NOT ADVISED, MOD IS WIP![]\n Don't expect much, I am new to this programming language! A possibly hard and chaotic mod for Mindustry, the possibilities are currently unknown.\nSome images in the database may be inaccurate (units missing weapons)."
 version: "1.0"
 minGameVersion: "146"
 dependencies: [ ]
