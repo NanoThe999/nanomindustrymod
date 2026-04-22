@@ -15,13 +15,18 @@
         "power": 50,
         "items": {
             "items": [
-                {
-                    zinc/3
-                    raw-nanite/5
-                },
-            
+
+                    {
+                        "item": "zinc",
+                        "amount": 3
+                    },
+                    {
+                        "item": "raw-nanite",
+                        "amount": 5
+                    }
+
             ]
-        },
+        }
         /*"liquid": {
             "liquid": "molten-silver",
             "amount": 1.0
